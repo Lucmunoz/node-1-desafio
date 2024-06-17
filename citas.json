@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Lucas",
+    "edad": "12 años",
+    "tipo": "iguana",
+    "color": "verde",
+    "enfermedad": "hongos"
+  },
+  {
+    "nombre": "lulo",
+    "edad": "2 meses",
+    "tipo": "gato",
+    "color": "negro",
+    "enfermedad": "pulgas"
+  },
+  {
+    "nombre": "rayo",
+    "edad": "6 años",
+    "tipo": "caballo",
+    "color": "café",
+    "enfermedad": "fiebre equina"
+  }
+]
